@@ -13,6 +13,7 @@ Technical Integrity & Optimization
 Data Analysis
 
 Education
+
 BS Embry-Riddle Aeronautical University (Daytona Beach, FL)
 
 BS Computer Science WGU (2024 - Present)
